@@ -9,15 +9,15 @@ The Redbus Data Scraping and Filtering with streamlit Application aims to enhanc
 
 **Overview**:
 
-Selenium: Selenium is a library used for automating web browser. It is commonly used for web scraping, which involves extracting data from websites.
+**Selenium**: Selenium is a library used for automating web browser. It is commonly used for web scraping, which involves extracting data from websites.
 
-Pandas: Use the powerful Pandas library to transform the dataset from CSV format into a structured dataframe. Pandas helps data manipulation, cleaning and preprocessing, ensuring that data was ready for analysis.
+**Pandas**: Use the powerful Pandas library to transform the dataset from CSV format into a structured dataframe. Pandas helps data manipulation, cleaning and preprocessing, ensuring that data was ready for analysis.
 
-MySQL: With help of sql to establish a connection to a SQL database, enabling seamless intergration of the transformed dataset and the data was efficiently inserted into relevent tables for storage and retrieval.
+**MySQL**: With help of sql to establish a connection to a SQL database, enabling seamless intergration of the transformed dataset and the data was efficiently inserted into relevent tables for storage and retrieval.
 
-Streamlit: Developed an interactive web application using Streamlit, a user-friendly framework for data visualization and analysis.
+**Streamlit**: Developed an interactive web application using Streamlit, a user-friendly framework for data visualization and analysis.
 
-Skill-take:
+**Skill-take**:
 Selenium, Python, Pandas, MySQL, Streamlit.
 
-Developed-by: Karthik Anbazhagan
+**Developed-by**: Karthik Anbazhagan

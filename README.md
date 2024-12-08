@@ -74,8 +74,6 @@ Selenium, Python, Pandas, MySQL, Streamlit.
 ![image](https://github.com/user-attachments/assets/6a2ebac7-6789-4519-a483-d9dff67c0d6a)
 
 **Final Output:**
-![image](https://github.com/user-attachments/assets/e9fc39c5-da61-49c6-bbad-d3116c8edccc)
-
-
+![image](https://github.com/user-attachments/assets/56854337-13b5-4ac2-b448-e766f9e8b0a2)
 
 
